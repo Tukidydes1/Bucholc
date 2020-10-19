@@ -10,7 +10,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\..\OneDrive\Pulpit\TheThemeBucholc\TheThemeBucholc.csproj" />
-    <ProjectReference Include="..\BucholcModularLibrary\BucholcModularLibrary.csproj" />
   </ItemGroup>
 
 </Project>
